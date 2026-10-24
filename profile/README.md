@@ -6,7 +6,7 @@ GRIDEX의 기존 통합 업무·연구 저장소와 공통 프로젝트를 관�
 
 | 저장소 | 소개 |
 |---|---|
-| [gridex-gallery](https://github.com/Gridex-Korea/gridex-gallery) | Claude와 만든 해부도·3D 구성도 전시관 (정적 사이트) |
+| [gridex-gallery](https://github.com/Gridex-Korea/gridex-gallery) · [사이트](https://gridex-korea.github.io/gridex-gallery/) | Claude와 만든 해부도·3D 구성도 전시관 (정적 사이트) |
 
 ## GRIDEX 조직 안내
 
